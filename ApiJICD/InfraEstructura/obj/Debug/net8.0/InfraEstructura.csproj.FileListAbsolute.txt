@@ -1,0 +1,15 @@
+D:\Jaime isaza\Grupos\2024-2\Construccion de software basado en plataforma\Api\ApiJICD\InfraEstructura\bin\Debug\net8.0\InfraEstructura.deps.json
+D:\Jaime isaza\Grupos\2024-2\Construccion de software basado en plataforma\Api\ApiJICD\InfraEstructura\bin\Debug\net8.0\InfraEstructura.dll
+D:\Jaime isaza\Grupos\2024-2\Construccion de software basado en plataforma\Api\ApiJICD\InfraEstructura\bin\Debug\net8.0\InfraEstructura.pdb
+D:\Jaime isaza\Grupos\2024-2\Construccion de software basado en plataforma\Api\ApiJICD\InfraEstructura\obj\Debug\net8.0\InfraEstructura.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jaime isaza\Grupos\2024-2\Construccion de software basado en plataforma\Api\ApiJICD\InfraEstructura\obj\Debug\net8.0\InfraEstructura.AssemblyInfoInputs.cache
+D:\Jaime isaza\Grupos\2024-2\Construccion de software basado en plataforma\Api\ApiJICD\InfraEstructura\obj\Debug\net8.0\InfraEstructura.AssemblyInfo.cs
+D:\Jaime isaza\Grupos\2024-2\Construccion de software basado en plataforma\Api\ApiJICD\InfraEstructura\obj\Debug\net8.0\InfraEstructura.csproj.CoreCompileInputs.cache
+D:\Jaime isaza\Grupos\2024-2\Construccion de software basado en plataforma\Api\ApiJICD\InfraEstructura\obj\Debug\net8.0\InfraEstructura.dll
+D:\Jaime isaza\Grupos\2024-2\Construccion de software basado en plataforma\Api\ApiJICD\InfraEstructura\obj\Debug\net8.0\refint\InfraEstructura.dll
+D:\Jaime isaza\Grupos\2024-2\Construccion de software basado en plataforma\Api\ApiJICD\InfraEstructura\obj\Debug\net8.0\InfraEstructura.pdb
+D:\Jaime isaza\Grupos\2024-2\Construccion de software basado en plataforma\Api\ApiJICD\InfraEstructura\obj\Debug\net8.0\ref\InfraEstructura.dll
+D:\Jaime isaza\Grupos\2024-2\Construccion de software basado en plataforma\Api\ApiJICD\InfraEstructura\bin\Debug\net8.0\Dominio.dll
+D:\Jaime isaza\Grupos\2024-2\Construccion de software basado en plataforma\Api\ApiJICD\InfraEstructura\bin\Debug\net8.0\Dominio.pdb
+D:\Jaime isaza\Grupos\2024-2\Construccion de software basado en plataforma\Api\ApiJICD\InfraEstructura\obj\Debug\net8.0\InfraEstructura.csproj.AssemblyReference.cache
+D:\Jaime isaza\Grupos\2024-2\Construccion de software basado en plataforma\Api\ApiJICD\InfraEstructura\obj\Debug\net8.0\InfraEst.0D0C2B54.Up2Date

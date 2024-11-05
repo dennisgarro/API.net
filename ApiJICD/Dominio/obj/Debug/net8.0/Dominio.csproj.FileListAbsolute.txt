@@ -1,0 +1,11 @@
+D:\Jaime isaza\Grupos\2024-2\Construccion de software basado en plataforma\Api\ApiJICD\Dominio\bin\Debug\net8.0\Dominio.deps.json
+D:\Jaime isaza\Grupos\2024-2\Construccion de software basado en plataforma\Api\ApiJICD\Dominio\bin\Debug\net8.0\Dominio.dll
+D:\Jaime isaza\Grupos\2024-2\Construccion de software basado en plataforma\Api\ApiJICD\Dominio\bin\Debug\net8.0\Dominio.pdb
+D:\Jaime isaza\Grupos\2024-2\Construccion de software basado en plataforma\Api\ApiJICD\Dominio\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jaime isaza\Grupos\2024-2\Construccion de software basado en plataforma\Api\ApiJICD\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+D:\Jaime isaza\Grupos\2024-2\Construccion de software basado en plataforma\Api\ApiJICD\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+D:\Jaime isaza\Grupos\2024-2\Construccion de software basado en plataforma\Api\ApiJICD\Dominio\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+D:\Jaime isaza\Grupos\2024-2\Construccion de software basado en plataforma\Api\ApiJICD\Dominio\obj\Debug\net8.0\Dominio.dll
+D:\Jaime isaza\Grupos\2024-2\Construccion de software basado en plataforma\Api\ApiJICD\Dominio\obj\Debug\net8.0\refint\Dominio.dll
+D:\Jaime isaza\Grupos\2024-2\Construccion de software basado en plataforma\Api\ApiJICD\Dominio\obj\Debug\net8.0\Dominio.pdb
+D:\Jaime isaza\Grupos\2024-2\Construccion de software basado en plataforma\Api\ApiJICD\Dominio\obj\Debug\net8.0\ref\Dominio.dll

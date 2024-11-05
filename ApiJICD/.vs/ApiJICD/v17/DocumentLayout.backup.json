@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Jaime isaza\\Grupos\\2024-2\\Construccion de software basado en plataforma\\Api\\ApiJICD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B836BBAF-3B81-42B3-AF18-418EC781A19B}|Dominio\\Dominio.csproj|d:\\jaime isaza\\grupos\\2024-2\\construccion de software basado en plataforma\\api\\apijicd\\dominio\\modelos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B836BBAF-3B81-42B3-AF18-418EC781A19B}|Dominio\\Dominio.csproj|solutionrelative:dominio\\modelos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DDDB27F-C0B4-452F-BB20-909256398CCD}|InfraEstructura\\InfraEstructura.csproj|d:\\jaime isaza\\grupos\\2024-2\\construccion de software basado en plataforma\\api\\apijicd\\infraestructura\\servicios\\servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DDDB27F-C0B4-452F-BB20-909256398CCD}|InfraEstructura\\InfraEstructura.csproj|solutionrelative:infraestructura\\servicios\\servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF70697E-96A8-4D9E-A1B5-B45E9A5EB52D}|ApiJICD\\ApiJICD.csproj|d:\\jaime isaza\\grupos\\2024-2\\construccion de software basado en plataforma\\api\\apijicd\\apijicd\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF70697E-96A8-4D9E-A1B5-B45E9A5EB52D}|ApiJICD\\ApiJICD.csproj|solutionrelative:apijicd\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF70697E-96A8-4D9E-A1B5-B45E9A5EB52D}|ApiJICD\\ApiJICD.csproj|d:\\jaime isaza\\grupos\\2024-2\\construccion de software basado en plataforma\\api\\apijicd\\apijicd\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF70697E-96A8-4D9E-A1B5-B45E9A5EB52D}|ApiJICD\\ApiJICD.csproj|solutionrelative:apijicd\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF70697E-96A8-4D9E-A1B5-B45E9A5EB52D}|ApiJICD\\ApiJICD.csproj|d:\\jaime isaza\\grupos\\2024-2\\construccion de software basado en plataforma\\api\\apijicd\\apijicd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF70697E-96A8-4D9E-A1B5-B45E9A5EB52D}|ApiJICD\\ApiJICD.csproj|solutionrelative:apijicd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B836BBAF-3B81-42B3-AF18-418EC781A19B}|Dominio\\Dominio.csproj|d:\\jaime isaza\\grupos\\2024-2\\construccion de software basado en plataforma\\api\\apijicd\\dominio\\interfaces\\iservicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B836BBAF-3B81-42B3-AF18-418EC781A19B}|Dominio\\Dominio.csproj|solutionrelative:dominio\\interfaces\\iservicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Jaime isaza\\Grupos\\2024-2\\Construccion de software basado en plataforma\\Api\\ApiJICD\\ApiJICD\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiJICD\\appsettings.json",
+              "ToolTip": "D:\\Jaime isaza\\Grupos\\2024-2\\Construccion de software basado en plataforma\\Api\\ApiJICD\\ApiJICD\\appsettings.json",
+              "RelativeToolTip": "ApiJICD\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-07T02:38:38.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\Jaime isaza\\Grupos\\2024-2\\Construccion de software basado en plataforma\\Api\\ApiJICD\\Dominio\\Modelos\\Login.cs",
+              "RelativeDocumentMoniker": "Dominio\\Modelos\\Login.cs",
+              "ToolTip": "D:\\Jaime isaza\\Grupos\\2024-2\\Construccion de software basado en plataforma\\Api\\ApiJICD\\Dominio\\Modelos\\Login.cs",
+              "RelativeToolTip": "Dominio\\Modelos\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T11:56:05.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Servicios.cs",
+              "DocumentMoniker": "D:\\Jaime isaza\\Grupos\\2024-2\\Construccion de software basado en plataforma\\Api\\ApiJICD\\InfraEstructura\\Servicios\\Servicios.cs",
+              "RelativeDocumentMoniker": "InfraEstructura\\Servicios\\Servicios.cs",
+              "ToolTip": "D:\\Jaime isaza\\Grupos\\2024-2\\Construccion de software basado en plataforma\\Api\\ApiJICD\\InfraEstructura\\Servicios\\Servicios.cs",
+              "RelativeToolTip": "InfraEstructura\\Servicios\\Servicios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T11:46:40.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Jaime isaza\\Grupos\\2024-2\\Construccion de software basado en plataforma\\Api\\ApiJICD\\ApiJICD\\Program.cs",
+              "RelativeDocumentMoniker": "ApiJICD\\Program.cs",
+              "ToolTip": "D:\\Jaime isaza\\Grupos\\2024-2\\Construccion de software basado en plataforma\\Api\\ApiJICD\\ApiJICD\\Program.cs",
+              "RelativeToolTip": "ApiJICD\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T11:33:37.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IServicios.cs",
+              "DocumentMoniker": "D:\\Jaime isaza\\Grupos\\2024-2\\Construccion de software basado en plataforma\\Api\\ApiJICD\\Dominio\\Interfaces\\IServicios.cs",
+              "RelativeDocumentMoniker": "Dominio\\Interfaces\\IServicios.cs",
+              "ToolTip": "D:\\Jaime isaza\\Grupos\\2024-2\\Construccion de software basado en plataforma\\Api\\ApiJICD\\Dominio\\Interfaces\\IServicios.cs",
+              "RelativeToolTip": "Dominio\\Interfaces\\IServicios.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T11:30:45.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\Jaime isaza\\Grupos\\2024-2\\Construccion de software basado en plataforma\\Api\\ApiJICD\\ApiJICD\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "ApiJICD\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\Jaime isaza\\Grupos\\2024-2\\Construccion de software basado en plataforma\\Api\\ApiJICD\\ApiJICD\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "ApiJICD\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAArwA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T19:31:18.332Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

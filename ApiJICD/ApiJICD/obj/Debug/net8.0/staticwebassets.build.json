@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wnhqfQD5jqamAKuuTpnZrBjGUOTLUMl3pNlCMMsq/CI=",
+  "Source": "ApiJICD",
+  "BasePath": "_content/ApiJICD",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
